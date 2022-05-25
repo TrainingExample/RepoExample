@@ -1,5 +1,7 @@
-# RepoExample
+# RepoExample 
 
-This is an update!
+We made lots of changes to this readme to document how to use the applications and services developed in this repo.
 
-Update from Visual Studio 2022 Community Edition
+We made lots of images and videos.
+
+We linked videos from other locations.
