@@ -10,4 +10,4 @@ Correcting issue
 
 This is a new update
 
-Changes made in Paullizer/repoexample fork
+Update from documentation
