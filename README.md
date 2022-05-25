@@ -9,3 +9,5 @@ We linked videos from other locations.
 Correcting issue
 
 This is a new update
+
+Update from documentation
