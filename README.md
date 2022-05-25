@@ -12,3 +12,5 @@ Made a change in main to create conflict
 =======
 
 Updating #1
+
+Update #2
