@@ -7,3 +7,5 @@ We made lots of images and videos.
 We linked videos from other locations.
 
 Correcting issue
+
+This is a new update
