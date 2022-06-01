@@ -12,3 +12,5 @@ Made a change in main to create conflict
 =======
 
 Update on Linux
+
+Update on Linux for command line push
