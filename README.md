@@ -2,14 +2,25 @@
 
 We made lots of changes to this readme to document how to use the applications and services developed in this repo.
 
-We made lots of images and videos.
+Updating from documentation branch to show pull request
 
 We linked videos from other locations.
 
-Correcting issue
+HElp menu fixed
+=======
+Made a change in main to create conflict
+=======
 
-This is a new update
+Update on Linux
+
 
 Update from documentation
 
 Updatee
+=======
+Update on Linux for command line push
+
+New updates to show diff
+
+Updates here
+
